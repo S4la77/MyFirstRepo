@@ -1,0 +1,7 @@
+Brief Introduction About Myself
+
+[My name is Salah Faridi, and I am a 20-year-old student interested in technology, data analysis, and AI.
+I enjoy learning new digital skills and improving my knowledge through online courses and hands-on projects. 
+I’m also passionate about fitness.]
+
+Added introduction file
